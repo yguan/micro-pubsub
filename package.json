@@ -1,0 +1,15 @@
+{
+    "name": "micro-pubsub",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yguan/micro-pubsub.git"
+    },
+    "description": "A modified version of David Walsh's pubsub",
+    "main": "index.js",
+    "author": "Yong Guan",
+    "engines": {
+        "node": ">=0.10.0"
+    },
+    "license": "MIT"
+}
